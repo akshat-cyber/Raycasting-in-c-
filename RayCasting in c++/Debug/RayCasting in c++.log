@@ -1,0 +1,3 @@
+﻿  RayCasting in c++.cpp
+C:\Users\gistg\Desktop\Ray Casting\RayCasting in c++\RayCasting in c++\RayCasting in c++.cpp(134,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RayCasting in c++.vcxproj -> C:\Users\gistg\Desktop\Ray Casting\RayCasting in c++\Debug\RayCasting in c++.exe
